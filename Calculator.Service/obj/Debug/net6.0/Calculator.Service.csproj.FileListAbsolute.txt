@@ -1,0 +1,12 @@
+C:\Users\willi\source\repos\Calculator\Calculator.Service\bin\Debug\net6.0\Calculator.Service.deps.json
+C:\Users\willi\source\repos\Calculator\Calculator.Service\bin\Debug\net6.0\Calculator.Service.dll
+C:\Users\willi\source\repos\Calculator\Calculator.Service\bin\Debug\net6.0\Calculator.Service.pdb
+C:\Users\willi\source\repos\Calculator\Calculator.Service\obj\Debug\net6.0\Calculator.Service.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Calculator\Calculator.Service\obj\Debug\net6.0\Calculator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\Calculator\Calculator.Service\obj\Debug\net6.0\Calculator.Service.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Calculator\Calculator.Service\obj\Debug\net6.0\Calculator.Service.AssemblyInfo.cs
+C:\Users\willi\source\repos\Calculator\Calculator.Service\obj\Debug\net6.0\Calculator.Service.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Calculator\Calculator.Service\obj\Debug\net6.0\Calculator.Service.dll
+C:\Users\willi\source\repos\Calculator\Calculator.Service\obj\Debug\net6.0\refint\Calculator.Service.dll
+C:\Users\willi\source\repos\Calculator\Calculator.Service\obj\Debug\net6.0\Calculator.Service.pdb
+C:\Users\willi\source\repos\Calculator\Calculator.Service\obj\Debug\net6.0\ref\Calculator.Service.dll

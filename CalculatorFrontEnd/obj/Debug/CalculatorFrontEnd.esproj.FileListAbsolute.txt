@@ -1,0 +1,2 @@
+C:\Users\willi\source\repos\Calculator\CalculatorFrontEnd\obj\Debug\CalculatorFrontEnd.esproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\Calculator\CalculatorFrontEnd\obj\Debug\CalculatorFrontEnd.esproj.CoreCompileInputs.cache

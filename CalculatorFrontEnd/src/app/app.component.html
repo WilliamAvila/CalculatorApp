@@ -1,0 +1,14 @@
+<h1 id="tableLabel">Welcome to My Calculator Web App</h1>
+<div>
+<input type="number" name="argumentA"  [(ngModel)]="calculation.argumentList[0]" />
+<select [(ngModel)]="calculation.operationSymbol">
+  <option *ngFor="let operator of Operators" [value]="operator.operationSymbol">
+    {{operator.value}}
+  </option>
+</select>
+<input type="number" name="argumentB" [(ngModel)]="calculation.argumentList[1]" />
+=
+<input  [ngClass]="resultStyle" type="number" name="result" [(ngModel)]="result" disabled />
+
+<button type="button" (click)="submit()" >Calculate</button>
+</div>
